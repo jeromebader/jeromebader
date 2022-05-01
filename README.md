@@ -27,7 +27,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Learning and doing new projects.
-- 🍕 &nbsp; Doing Entrepreneur projects with friends, meetups & tech events.
+- 🍕 &nbsp; Doing entrepreneur projects with friends, meetups & tech events.
 
 ### Programming Languages and Tools:
 
