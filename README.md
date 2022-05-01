@@ -11,6 +11,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently working with PHP, Python, Nodejs, Javascript, MySQL, Mongodb.
+- 🥅 &nbsp; Goal 2022: Career switch from Financial Management to Software Development role.
 - 🚀 &nbsp; I'm currently learning Full Stack Development and Blockchain Development.
 - 💭 &nbsp; I speak German, Spanish, English and Portugues 
 - 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil
@@ -68,7 +69,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	    <li><b>Laptop: </b> DELL VOSTRO 3400 (i5 11th) 16 GB, 256 GB SSD</li>
   	    <li><b>Browser: </b> Google Chrome, Brave </li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> StackOverflow, Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> StackOverflow, Dev.to, Medium, Linkedin and Twitter, Friends.</li>
 	    <br />
 	
 	</ul>	
