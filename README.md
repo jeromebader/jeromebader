@@ -13,15 +13,15 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I'm currently working with PHP, Python, Nodejs, Javascript, MySQL, Mongodb.
 - 🥅 &nbsp; Goal 2022: Career switch from Financial Management to Software Development role.
 - 🚀 &nbsp; I'm currently learning Full Stack Development and Blockchain Development.
-- 💭 &nbsp; I speak German, Spanish, English and Portugues 
-- 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil
-- 🌱 &nbsp; I've worked in several startups and created new companies
-- 👯 &nbsp; I’m looking to collaborate and work on new projects
+- 💭 &nbsp; I speak German, Spanish, English and Portugues. 
+- 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
+- 🌱 &nbsp; I've worked in several startups and created new companies.
+- 👯 &nbsp; I’m looking to collaborate and work on new projects.
 - 👨🏻‍💻 &nbsp; Some of my projects with exception client projects are available on [Github](https://github.com/jeromebader).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jeromebader/jeromebader/issues/)! I am happy to help.
 - 📫 &nbsp; How to reach me: jerome.bader@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/christian-jerome-bader/).
-- 🔭 &nbsp; I'm also working as a Freelancer 
+- 🔭 &nbsp; I'm also working as a Freelancer. 
 
 
 ### My Absolute Favorites:
@@ -65,9 +65,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> DELL VOSTRO 3400 (i5 11th) 16 GB, 256 GB SSD</li>
-  	    <li><b>Browser: </b> Google Chrome, Brave </li>
+  	    <li><b>OS:</b> Ubuntu 20.04, 22.04.</li>
+	    <li><b>Laptop: </b> DELL VOSTRO 3400 (i5 11th) 16 GB, 256 GB SSD.</li>
+  	    <li><b>Browser: </b> Google Chrome, Brave. </li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> StackOverflow, Dev.to, Medium, Linkedin and Twitter, Friends.</li>
 	    <br />
