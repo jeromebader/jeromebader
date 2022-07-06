@@ -10,12 +10,12 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently working with PHP, Python, Nodejs, Javascript, MySQL, Mongodb.
-- 🥅 &nbsp; Goal 2022: Career switch from Financial Management to Software Development role.
-- 🚀 &nbsp; I'm currently learning Full Stack Development and Blockchain Development.
+- 🛠 &nbsp; I'm currently working with Python, Pandas, Numpy, Pygame, PHP Vanilla, Javascript, MySQL
+- 🥅 &nbsp; Goal 2022: Career switch from Financial Management to Data Science / Software Engineer role.
+- 🚀 &nbsp; I'm currently learning Data Science.
 - 💭 &nbsp; I speak German, Spanish, English and Portugues. 
 - 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
-- 🌱 &nbsp; I've worked in several startups and created new companies.
+- 🌱 &nbsp; I've worked in several startups.
 - 👯 &nbsp; I’m looking to collaborate and work on new projects.
 - 👨🏻‍💻 &nbsp; Some of my projects with exception client projects are available on [Github](https://github.com/jeromebader).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jeromebader/jeromebader/issues/)! I am happy to help.
