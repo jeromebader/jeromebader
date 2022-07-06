@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jeromebader.jeromebader&style=flat-square&color=0088cc)
 
-I'm a passionate learner who's always willing to learn and work across multiple technologies and areas💡. I love to explore new technologies and leverage them to solve business problems ✨.  I'm currently changing my career from financials into Web Development 🕸️ and working on my programming skills 🤓.
+I'm a passionate learner who's always willing to learn and work across multiple technologies and areas💡. I love to explore new technologies and use them to solve business problems ✨.  I'm currently working on leveraging my Data Science skills 🕸️ and also working on my programming skills 🤓.
 
 ### Talking about Personal Stuffs:
 
