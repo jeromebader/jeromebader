@@ -17,7 +17,7 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 - 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
 - 🌱 &nbsp; I've worked in several startups.
 - 👯 &nbsp; I’m looking to collaborate and work on new projects.
-- 👨🏻‍💻 &nbsp; Some of my projects with exception client projects are available on [Github](https://github.com/jeromebader).
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/jeromebader).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jeromebader/jeromebader/issues/)! I am happy to help.
 - 📫 &nbsp; How to reach me: jerome.bader@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/christian-jerome-bader/).
