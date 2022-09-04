@@ -69,13 +69,11 @@ I'm a passionate learner who's always willing to learn and work across multiple 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04, 22.04.</li>
+  	    <li><b>OS:</b> Ubuntu 22.04.</li>
 	    <li><b>Laptop: </b> DELL VOSTRO 3400 (i5 11th) 16 GB, 256 GB SSD.</li>
   	    <li><b>Browser: </b> Google Chrome, Brave. </li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> StackOverflow, Dev.to, Medium, Linkedin and Twitter, Friends.</li>
-	    <br />
-	
 	</ul>	
 </details>
 
