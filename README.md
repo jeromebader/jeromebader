@@ -27,7 +27,7 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Learning and practising.
+- 📰 &nbsp; Learning and practice.
 - 🍕 &nbsp; Doing entrepreneur projects with friends, meetups & tech events.
 
 ### Programming Languages and Tools:
