@@ -11,7 +11,7 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently working with Python, Pandas, Scikit-learn, Numpy, SQL, MongoDB, Pygame, PHP, Javascript
-- 🥅 &nbsp; Goal 2022: Career switch from Financial Management to Data Science / Software Engineer role.
+- 🥅 &nbsp; Goal 2022: Career switch from Business Controlling to Data Science / Software Engineer role.
 - 🚀 &nbsp; I'm currently learning Data Science.
 - 💭 &nbsp; I speak German, Spanish, English and Portugues. 
 - 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
