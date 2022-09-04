@@ -10,9 +10,9 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently working with Python, Pandas, Scikit-learn, Numpy, SQL, MongoDB, Pygame, PHP, Javascript
+- 🛠 &nbsp; I'm currently working with Python, Pandas, Scikit-learn, Numpy, SQL, Machine Learning, MongoDB, Pygame, PHP, Javascript
 - 🥅 &nbsp; Goal 2022: Career switch from Business Controlling to Data Science / Software Engineer role.
-- 🚀 &nbsp; I'm currently learning Data Science.
+- 🚀 &nbsp; I'm currently learning Data Science, practising Machine Learning and Python.
 - 💭 &nbsp; I speak German, Spanish, English and Portugues. 
 - 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
 - 🌱 &nbsp; I've worked in several startups.
