@@ -8,12 +8,12 @@
 
 I'm a passionate learner who's always willing to learn and work across multiple technologies and areas💡. I love to explore new technologies and use them to solve business problems ✨.  I'm currently working on leveraging my Data Science skills 🕸️🤓.
 
-### Talking about Personal Stuffs:
+### Talking about me:
 
 - 🛠 &nbsp; I'm currently working with Python, Pandas, Scikit-learn, Numpy, SQL, Machine Learning, MongoDB, Pygame, PHP, Javascript.
 - 🚀 &nbsp; I'm currently improving my Data Science skills.
-- 💭 &nbsp; I speak German, Spanish, English and Portugues. 
-- 💼 &nbsp; I've worked and lived in Germany, Spain, Chile and Brazil.
+- 💭 &nbsp; I speak German, Spanish, English, and Portuguese. 
+- 💼 &nbsp; I've worked and lived in Germany, Spain, Chile, and Brazil.
 - 🌱 &nbsp; I've worked in several startups.
 - 👯 &nbsp; I’m looking to collaborate and work on new projects.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/jeromebader).
