@@ -8,7 +8,7 @@
 I'm an ever-curious tech enthusiast with an unending drive for learning and applying a multitude of technologies and frameworks. My passion lies in exploring novel technologies and employing them to address real-world business challenges ✨.
 
 ### About Me:
-🔧 **Skills & Technologies:** 
+-🔧 **Skills & Technologies:** 
    - **Programming Languages:** Python, PHP, JavaScript, HTML, CSS
    - **Databases:** SQL, MongoDB, Neo4J, Google BigQuery
    - **Web Frameworks:** Flask, Django, Streamlit, Symphony, Laravel, WordPress
@@ -22,22 +22,22 @@ I'm an ever-curious tech enthusiast with an unending drive for learning and appl
    - **Collaboration Tools:** Slack, Notion, Trello, Miro
    - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS
 
-🚀 **Constantly Learning:** Currently honing my Data Science abilities.
-💭 **Multilingual Skills:** Fluent in English, Spanish, German, and Portuguese.
-💼 **Global Experience:** Worked and lived in Germany, Spain, Chile, Brazil, and the Czech Republic.
-🌱 **Startup Experience:** Contributed to various startups in Germany, Chile, Brazil, and the Czech Republic.
-👯 **Collaboration:** Always open to collaborating and contributing to interesting projects.
-👨🏻‍💻 **Projects:** You can find some of my work on [GitHub](https://github.com/jeromebader?tab=repositories).
-💬 **Get in Touch:** Feel free to ask me anything, I'm here to help! 
-✉️ **Contact:** [write me](mailto:jerome.bader@gmail.com).
-📝 **[Resume](https://www.linkedin.com/in/christian-jerome-bader/):** Feel free to explore my professional journey.
-🔭 **Freelancing:** I'm available for freelance opportunities.
+-🚀 **Constantly Learning:** Currently honing my Data Science abilities.
+-💭 **Multilingual Skills:** Fluent in English, Spanish, German, and Portuguese.
+-💼 **Global Experience:** Worked and lived in Germany, Spain, Chile, Brazil, and the Czech Republic.
+-🌱 **Startup Experience:** Contributed to various startups in Germany, Chile, Brazil, and the Czech Republic.
+-👯 **Collaboration:** Always open to collaborating and contributing to interesting projects.
+-👨🏻‍💻 **Projects:** You can find some of my work on [GitHub](https://github.com/jeromebader?tab=repositories).
+-💬 **Get in Touch:** Feel free to ask me anything, I'm here to help! 
+-✉️ **Contact:** [write me](mailto:jerome.bader@gmail.com).
+-📝 **[Resume](https://www.linkedin.com/in/christian-jerome-bader/):** Feel free to explore my professional journey.
+-🔭 **Freelancing:** I'm available for freelance opportunities.
 
 ### My Absolute Favorites:
-💻 **Exploration:** I love diving into new tech stacks and creating fascinating projects.
-🗞 **Continuous Learning:** Education, practice, and growth are part of my daily routine.
-🍕 **Community Engagement:** Enjoy launching entrepreneurial endeavors with friends, attending meetups, and engaging in tech events.
-✈️ **Traveling:** Exploring new cultures and destinations is something I deeply cherish.
+-💻 **Exploration:** I love diving into new tech stacks and creating fascinating projects.
+-🗞 **Continuous Learning:** Education, practice, and growth are part of my daily routine.
+-🍕 **Community Engagement:** Enjoy launching entrepreneurial endeavors with friends, attending meetups, and engaging in tech events.
+-✈️ **Traveling:** Exploring new cultures and destinations is something I deeply cherish.
 
 Whether it's working on groundbreaking solutions, collaborating on new ventures, or simply having a tech-oriented conversation, I'm eager to connect. Let's build something extraordinary together! 🚀
 
