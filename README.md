@@ -20,7 +20,8 @@ I'm an ever-curious tech enthusiast with an unending drive for learning and appl
    - **Data Visualization Tools:** QlikView, PowerBI, Tableau, Google Looker, MicroStrategy
    - **Business Software:** SAP, Microsoft Dynamics, Excel, Microsoft Office
    - **Collaboration Tools:** Slack, Notion, Trello, Miro
-   - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS 
+   - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS
+
 🚀 **Constantly Learning:** Currently honing my Data Science abilities.
 💭 **Multilingual Skills:** Fluent in English, Spanish, German, and Portuguese.
 💼 **Global Experience:** Worked and lived in Germany, Spain, Chile, Brazil, and the Czech Republic.
