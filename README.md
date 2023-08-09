@@ -4,30 +4,41 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Christian_Jero)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/CJBader)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jeromebader.jeromebader&style=flat-square&color=0088cc)
+### Glad to see you here! 🎉  
+I'm an ever-curious tech enthusiast with an unending drive for learning and applying a multitude of technologies and frameworks. My passion lies in exploring novel technologies and employing them to address real-world business challenges ✨.
 
-I'm a passionate learner who's always willing to learn and work across multiple technologies and areas💡. I love to explore new technologies and use them to solve business problems ✨.  I'm currently working on leveraging my Data Science skills 🕸️🤓.
-
-### Talking about me:
-
-- 🛠 &nbsp; I'm currently working with Python, Pandas, Scikit-learn, Numpy, SQL, Machine Learning, MongoDB, Pygame, PHP, Javascript.
-- 🚀 &nbsp; I'm currently improving my Data Science skills.
-- 💭 &nbsp; I speak German, Spanish, English, and Portuguese. 
-- 💼 &nbsp; I've worked and lived in Germany, Spain, Chile, and Brazil.
-- 🌱 &nbsp; I've worked in several startups.
-- 👯 &nbsp; I’m looking to collaborate and work on new projects.
-- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/jeromebader).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/jeromebader/jeromebader/issues/)! I am happy to help.
-- 📫 &nbsp; How to reach me: jerome.bader@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/christian-jerome-bader/).
-- 🔭 &nbsp; I'm also working as a Freelancer. 
-
+### About Me:
+🔧 **Skills & Technologies:** 
+   - **Programming Languages:** Python, PHP, JavaScript, HTML, CSS
+   - **Databases:** SQL, MongoDB, Neo4J, Google BigQuery
+   - **Web Frameworks:** Flask, Django, Streamlit, Symphony, Laravel, WordPress
+   - **Data Science & Analytics:** Pandas, Scikit-learn, Numpy, PySpark, Time Series Forecasting, NLP
+   - **Cloud & Deployment:** AWS, Google Cloud, Deployment in Kubernetes, CI/CD Pipelines with GitHub and GitLab
+   - **Automation:** Beautifulsoup, Selenium
+   - **Large Language Models & Prompt Engineering:** LLM, Prompt Design
+   - **GUI Development:** Tkinter, Pygame
+   - **Data Visualization Tools:** QlikView, PowerBI, Tableau, Google Looker, MicroStrategy
+   - **Business Software:** SAP, Microsoft Dynamics, Excel, Microsoft Office
+   - **Collaboration Tools:** Slack, Notion, Trello, Miro
+   - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS 
+🚀 **Constantly Learning:** Currently honing my Data Science abilities.
+💭 **Multilingual Skills:** Fluent in English, Spanish, German, and Portuguese.
+💼 **Global Experience:** Worked and lived in Germany, Spain, Chile, Brazil, and the Czech Republic.
+🌱 **Startup Experience:** Contributed to various startups in Germany, Chile, Brazil, and the Czech Republic.
+👯 **Collaboration:** Always open to collaborating and contributing to interesting projects.
+👨🏻‍💻 **Projects:** You can find some of my work on [GitHub](https://github.com/jeromebader?tab=repositories).
+💬 **Get in Touch:** Feel free to ask me anything, I'm here to help! 
+✉️ **Contact:** [write me](mailto:jerome.bader@gmail.com).
+📝 **[Resume](https://www.linkedin.com/in/christian-jerome-bader/):** Feel free to explore my professional journey.
+🔭 **Freelancing:** I'm available for freelance opportunities.
 
 ### My Absolute Favorites:
+💻 **Exploration:** I love diving into new tech stacks and creating fascinating projects.
+🗞 **Continuous Learning:** Education, practice, and growth are part of my daily routine.
+🍕 **Community Engagement:** Enjoy launching entrepreneurial endeavors with friends, attending meetups, and engaging in tech events.
+✈️ **Traveling:** Exploring new cultures and destinations is something I deeply cherish.
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Learning and practice.
-- 🍕 &nbsp; Doing entrepreneur projects with friends, meetups & tech events.
+Whether it's working on groundbreaking solutions, collaborating on new ventures, or simply having a tech-oriented conversation, I'm eager to connect. Let's build something extraordinary together! 🚀
 
 ### Programming Languages and Tools:
 
@@ -61,20 +72,6 @@ I'm a passionate learner who's always willing to learn and work across multiple 
 <code><img height="27" src="https://www.clipartmax.com/png/middle/115-1150991_microsoftexcel-logo-1-ms-excel-logo-transparent.png" alt="Excel"></code>
 <code><img height="27" src="https://w7.pngwing.com/pngs/997/108/png-transparent-microsoft-access-microsoft-office-2013-microsoft-office-365-microsoft-text-rectangle-logo.png" alt="Access"></code>
 <code><img height="27" src="http://excelhints.com/Blog/wp-content/uploads/2017/09/Microsoft-excel-vba-logo.png" alt="VBA"></code>
-
-
-
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 22.04.</li>
-	    <li><b>Laptop: </b> DELL VOSTRO 3400 (i5 11th) 16 GB, 256 GB SSD.</li>
-  	    <li><b>Browser: </b> Google Chrome, Brave. </li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> StackOverflow, Dev.to, Medium, Linkedin and Twitter, Friends.</li>
-	</ul>	
-</details>
 
 #
 
