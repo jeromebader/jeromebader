@@ -7,39 +7,49 @@
 ### Glad to see you here! 🎉  
 I'm an ever-curious tech enthusiast with an unending drive for learning and applying a multitude of technologies and frameworks. My passion lies in exploring novel technologies and employing them to address real-world business challenges ✨.
 
+## Welcome to My GitHub! 🎉  
+I'm an ever-curious tech enthusiast with a relentless passion for learning and leveraging cutting-edge technologies to solve real-world business challenges. Whether it's exploring novel frameworks, collaborating on impactful projects, or tackling complex problems, I'm driven by the pursuit of innovation and excellence. ✨
+
+---
+
 ### About Me:
-- 🔧 **Skills & Technologies:** 
-   - **Programming Languages:** Python, PHP, JavaScript, HTML, CSS
-   - **Databases:** SQL, MongoDB, Neo4J, Google BigQuery
-   - **Web Frameworks:** Flask, Django, Streamlit, Symphony, Laravel, WordPress
-   - **Data Science & Analytics:** Pandas, Scikit-learn, Numpy, PySpark, Time Series Forecasting, NLP
-   - **Cloud & Deployment:** AWS, Google Cloud, Deployment in Kubernetes, CI/CD Pipelines with GitHub and GitLab
-   - **Automation:** Beautifulsoup, Selenium
-   - **Large Language Models & Prompt Engineering:** LLM, Prompt Design
-   - **GUI Development:** Tkinter, Pygame
-   - **Data Visualization Tools:** QlikView, PowerBI, Tableau, Google Looker, MicroStrategy
-   - **Business Software:** SAP, Microsoft Dynamics, Excel, Microsoft Office
-   - **Collaboration Tools:** Slack, Notion, Trello, Miro
-   - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS
+- **🔧 Skills & Expertise:**
+   - **Programming Languages:** Python, PHP, JavaScript  
+   - **Markup & Styling:** HTML, CSS  
+   - **Databases:** SQL (MySQL, PostgreSQL), MongoDB, Neo4J, Snowflake, Google BigQuery  
+   - **Web Frameworks:** Streamlit, Flask, Django,  Symfony, Laravel, WordPress  
+   - **Data Science & Analytics:** Pandas, Scikit-learn, NumPy, PySpark, Time Series Forecasting, NLP  
+   - **Cloud & Deployment:** AWS, Google Cloud, Kubernetes, CI/CD Pipelines (GitHub, GitLab)  
+   - **Automation:** BeautifulSoup, Selenium  
+   - **Large Language Models & Prompt Engineering:** LLMs, Prompt Design  
+   - **GUI Development:** Tkinter, Pygame  
+   - **Data Visualization Tools:** MicroStrategy , Grafana, QlikView, Power BI, Tableau, Looker
+   - **Business Software:** SAP, Microsoft Dynamics, Excel, Microsoft Office  
+   - **Collaboration Tools:** Slack, Notion, Trello, Miro  
+   - **Other Technologies:** Machine Learning, Blockchain, Linux, macOS  
 
-- 🚀 **Constantly Learning:** Currently honing my Data Science abilities.
-- 💭 **Multilingual Skills:** Fluent in English, Spanish, German, and Portuguese.
-- 💼 **Global Experience:** Worked and lived in Germany, Spain, Chile, Brazil, and the Czech Republic.
-- 🌱 **Startup Experience:** Contributed to various startups in Germany, Chile, Brazil, and the Czech Republic.
-- 👯 **Collaboration:** Always open to collaborating and contributing to interesting projects.
-- 👨🏻‍💻 **Projects:** You can find some of my work on [GitHub](https://github.com/jeromebader?tab=repositories).
-- 💬 **Get in Touch:** Feel free to ask me anything, I'm here to help! 
-- ✉️ **Contact:** [write me](mailto:jerome.bader@gmail.com).
-- 📝 **[Resume](https://www.linkedin.com/in/christian-jerome-bader/):** Feel free to explore my professional journey.
-- 🔭 **Freelancing:** I'm available for freelance opportunities.
+- **🎯 Leadership:** Certified Scrum Master with experience in facilitating agile practices, promoting team collaboration, and delivering high-value solutions.  
+- 🚀 **Lifelong Learner:** Currently working on Data Analytics projects with Snowflake, Automation with Python, and Dashboards sharpening my MicroStrategy skills.  
+- 🌍 **Global Citizen:** Fluent in English, Spanish, German, and Portuguese, with experience working and living across Germany, Spain, Chile, Brazil, and the Czech Republic.  
+- 🌱 **Startup Contributor:** Thrilled to have supported several startups in diverse roles.  
+- 👯 **Collaborator:** Always eager to work on exciting, impactful projects.  
+- 📂 **Projects:** Explore my repositories [here](https://github.com/jeromebader?tab=repositories).  
+- ✉️ **Get in Touch:** [Email me](mailto:jerome.bader@gmail.com) – I’d love to connect!  
+- 📝 **Resume:** Dive deeper into my professional journey on [LinkedIn](https://www.linkedin.com/in/christian-jerome-bader/).  
+- 🔭 **Freelancing:** Open to freelance opportunities – let’s collaborate!  
 
-### My Absolute Favorites:
-- 💻 **Exploration:** I love diving into new tech stacks and creating fascinating projects.
-- 🗞 **Continuous Learning:** Education, practice, and growth are part of my daily routine.
-- 🍕 **Community Engagement:** Enjoy launching entrepreneurial endeavors with friends, attending meetups, and engaging in tech events.
-- ✈️ **Traveling:** Exploring new cultures and destinations is something I deeply cherish.
+---
 
-Whether it's working on groundbreaking solutions, collaborating on new ventures, or simply having a tech-oriented conversation, I'm eager to connect. Let's build something extraordinary together! 🚀
+### My Favorite Things:
+- **💻 Tech Exploration:** Diving into new technologies and crafting meaningful solutions.  
+- **🧠 Continuous Growth:** Education, practice, and development are part of my daily routine.  
+- **🍕 Community Engagement:** Energized by launching entrepreneurial ventures, attending meetups, and engaging with the tech community.  
+- **✈️ Traveling:** Embracing new cultures and adventures whenever possible.  
+
+---
+
+If you’re looking for a passionate tech enthusiast and certified Scrum Master to collaborate with, build something innovative, or just chat about the latest in technology, I’m excited to connect. Let’s make something extraordinary together! 🚀
+
 
 ### Programming Languages & Technologies:
 
@@ -68,7 +78,8 @@ Whether it's working on groundbreaking solutions, collaborating on new ventures,
 
 <code><img height="27" src="https://21707327.fs1.hubspotusercontent-na1.net/hub/21707327/hubfs/MicroStrategy.png?width=928&name=MicroStrategy.png" alt="Microstrategy"></code>
 <code><img height="27" src="https://w7.pngwing.com/pngs/370/530/png-transparent-round-green-and-white-logo-qlik-business-intelligence-software-dashboard-logo-others-miscellaneous-company-grass.png" alt="QlikView"></code>
-<code><img height="27" src="https://mpng.subpng.com/20180820/sji/kisspng-power-bi-logo-business-intelligence-brand-microsof-exquitech-5b7b58763428b8.5551055215348102302137.jpg" alt="PowerBI"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/800px-Grafana_logo.svg.png" alt="Grafana"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI"></code>
 <code><img height="27" src="https://bsu-wpe-blogs.s3.amazonaws.com/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1024x576.png" alt="Tableau"></code>
 <code><img height="27" src="https://e7.pngegg.com/pngimages/351/968/png-clipart-logo-microsoft-dynamics-crm-microsoft-dynamics-erp-microsoft-dynamics-c5-dynamic-logo-text-logo.png" alt="MicroSoft Dynamics"></code>
 <code><img height="27" src="https://pngset.com/images/sap-logo-text-word-label-symbol-transparent-png-2224614.png" alt="SAP"></code>
