@@ -41,7 +41,7 @@ I'm an ever-curious tech enthusiast with an unending drive for learning and appl
 
 Whether it's working on groundbreaking solutions, collaborating on new ventures, or simply having a tech-oriented conversation, I'm eager to connect. Let's build something extraordinary together! 🚀
 
-### Programming Languages and Tools:
+### Programming Languages & Technologies:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-learn"></code>
@@ -64,7 +64,8 @@ Whether it's working on groundbreaking solutions, collaborating on new ventures,
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
-### Business Tools:
+### Business & Analytics Tools:
+
 <code><img height="27" src="https://21707327.fs1.hubspotusercontent-na1.net/hub/21707327/hubfs/MicroStrategy.png?width=928&name=MicroStrategy.png" alt="Microstrategy"></code>
 <code><img height="27" src="https://w7.pngwing.com/pngs/370/530/png-transparent-round-green-and-white-logo-qlik-business-intelligence-software-dashboard-logo-others-miscellaneous-company-grass.png" alt="QlikView"></code>
 <code><img height="27" src="https://mpng.subpng.com/20180820/sji/kisspng-power-bi-logo-business-intelligence-brand-microsof-exquitech-5b7b58763428b8.5551055215348102302137.jpg" alt="PowerBI"></code>
