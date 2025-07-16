@@ -82,7 +82,6 @@ If you’re looking for a passionate tech enthusiast to collaborate with, build 
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/800px-Grafana_logo.svg.png" alt="Grafana"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI"></code>
 <code><img height="27" src="https://bsu-wpe-blogs.s3.amazonaws.com/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1024x576.png" alt="Tableau"></code>
-<code><img height="27" src="https://bsu-wpe-blogs.s3.amazonaws.com/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1024x576.png" alt="Looker"></code>
 <code><img height="27" src="https://e7.pngegg.com/pngimages/351/968/png-clipart-logo-microsoft-dynamics-crm-microsoft-dynamics-erp-microsoft-dynamics-c5-dynamic-logo-text-logo.png" alt="MicroSoft Dynamics"></code>
 <code><img height="27" src="https://pngset.com/images/sap-logo-text-word-label-symbol-transparent-png-2224614.png" alt="SAP"></code>
 <code><img height="27" src="https://www.clipartmax.com/png/middle/115-1150991_microsoftexcel-logo-1-ms-excel-logo-transparent.png" alt="Excel"></code>
