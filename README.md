@@ -1,8 +1,7 @@
 ## Hi 👋, I'm [Christian Jerome Bader!](https://github.com/jeromebader/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-jerome-bader/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Christian_Jero)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/CJBader)
+
 
 ### Glad to see you here! 🎉   
 I'm an ever-curious tech enthusiast with a relentless passion for learning and leveraging cutting-edge technologies to solve real-world business challenges. Whether it's exploring novel frameworks, collaborating on impactful projects, or tackling complex problems, I'm driven by the pursuit of innovation and excellence. ✨
