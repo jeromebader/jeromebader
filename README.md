@@ -15,7 +15,7 @@ I'm an ever-curious tech enthusiast with a relentless passion for learning and l
    - **Databases:** SQL (MySQL, PostgreSQL), MongoDB, Neo4J, Snowflake, Google BigQuery  
    - **Web Frameworks:** Flask, Django, Streamlit, Symfony, Laravel, WordPress  
    - **Data Science & Analytics:** Pandas, Scikit-learn, NumPy, PySpark, Time Series Forecasting, NLP  
-   - **Cloud & Deployment:** AWS, Google Cloud, Kubernetes, CI/CD Pipelines (GitHub, GitLab)  
+   - **Cloud & Deployment:** Azure, Google Cloud, AWS, Kubernetes, CI/CD Pipelines (GitHub, GitLab)  
    - **Automation:** BeautifulSoup, Selenium  
    - **Large Language Models & Prompt Engineering:** LLMs, Prompt Design  
    - **GUI Development:** Tkinter, Pygame  
