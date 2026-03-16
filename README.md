@@ -27,7 +27,7 @@ I'm an ever-curious tech enthusiast with a relentless passion for learning and l
 - **🎯 Leadership:** Certified Scrum Master with experience in facilitating agile practices, promoting team collaboration, and delivering high-value solutions.  
 - 🚀 **Lifelong Learner:** Currently working on Data Analytics projects with Snowflake, Automation with Python, and Visualizations and Dashboards with MicroStrategy.  
 - 🔧 **Industry Experience:** Proven expertise across a variety of industries, including Electric Mobility, Utilities, Education, Government, Payment Systems, Financial Institutions, Banks, and Blockchain Analytics.  
-- 🌍 **Global Citizen:** Fluent in English, Spanish, German, and Portuguese, with experience working and living across Germany, Spain, Chile, Brazil, and the Czech Republic.  
+- 🌍 **Global Citizen:** Fluent in English, Spanish, German, and Portuguese, with experience working and living across Germany, Spain, Chile, and the Czech Republic.  
 - 🌱 **Startup Contributor:** Thrilled to have supported several startups in diverse roles.  
 - 👯 **Collaborator:** Always eager to work on exciting, impactful projects.  
 - 📂 **Projects:** Explore my repositories [here](https://github.com/jeromebader?tab=repositories).  
